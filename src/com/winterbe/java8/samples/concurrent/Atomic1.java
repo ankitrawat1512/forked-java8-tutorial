@@ -8,6 +8,8 @@ import java.util.stream.IntStream;
 /**
  * @author Benjamin Winterberg
  */
+
+//this is to test the pull of changed code from github to local
 public class Atomic1 {
 	
 	//test comments
