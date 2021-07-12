@@ -8,7 +8,7 @@ import java.util.stream.IntStream;
 /**
  * @author Benjamin Winterberg
  */
-
+// merging demo ...2nd test
 //this is to test the pull of changed code from github to local
 public class Atomic1 {
 	
